@@ -1,0 +1,51 @@
+License
+
+This repository holds listing and documentation files for the Priorlight
+remote MCP server. It does not contain the Priorlight service source code.
+
+The Priorlight service, trademarks, and brand assets
+----------------------------------------------------
+
+Copyright (c) 2026 Colorado Venture Patents LLC. All rights reserved.
+
+The Priorlight hosted service at https://priorlight.ai, the Priorlight name
+and logo, and the files in assets/ are not licensed for reuse. You may
+display the logo when linking to or listing Priorlight, and for no other
+purpose.
+
+Install snippets
+----------------
+
+The MCP client configuration snippets in README.md are licensed under the
+MIT License:
+
+Copyright (c) 2026 Colorado Venture Patents LLC
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+Other files in this repository
+------------------------------
+
+README.md (except the install snippets), server.json, and any other
+documentation in this repository are copyright (c) 2026 Colorado Venture
+Patents LLC. All rights reserved, except for the MIT-licensed install
+snippets described above.
+
+You may copy short excerpts for the purpose of listing or connecting to the
+Priorlight MCP server.
