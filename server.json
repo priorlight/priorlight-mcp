@@ -1,23 +1,18 @@
 {
-  "$comment": "DRAFT — not legal advice. For internal planning; requires review by a licensed patent attorney before reliance or use.",
   "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
-  "name": "com.priorlight/priorlight",
+  "name": "ai.priorlight/priorlight",
   "title": "Priorlight",
-  "description": "AI patent drafts and search. Not legal advice; registered practitioner review required.",
-  "version": "0.1.0",
+  "description": "Patent search reports and application drafts, with a free first look. Drafts only, not legal advice.",
+  "repository": {
+    "url": "https://github.com/priorlight/priorlight-mcp",
+    "source": "github"
+  },
+  "version": "0.2.0",
   "websiteUrl": "https://priorlight.ai",
   "remotes": [
     {
       "type": "streamable-http",
-      "url": "https://priorlight.ai/mcp",
-      "headers": [
-        {
-          "name": "Authorization",
-          "isRequired": false,
-          "isSecret": true,
-          "description": "Optional Bearer API key for repeat or paid callers. Free read-only tools and paid checkout work without it."
-        }
-      ]
+      "url": "https://priorlight.ai/mcp"
     }
   ]
 }
